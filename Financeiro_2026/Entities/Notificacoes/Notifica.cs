@@ -24,6 +24,35 @@ namespace Entities.Notificacoes
 
         public bool ValidarPropriedadeString(string valor, string nomePropriedade)
         {
+            if (string.IsNullOrWhiteSpace(valor) || string.IsNullOrWhiteSpace(nomePropriedade))
+            {
+                Notificacoes.Add(new Notifica
+                {
+                    Mensagem = "Campo Obrigatório",
+                    NomePropriedade = nomePropriedade
+                });
+
+                return false;
+            }
+
+            return true;
+        }
+
+        public bool ValidarPropriedadeInt(int valor, string nomePropriedade)
+        {
+
+            if (valor < 1 || string.IsNullOrWhiteSpace(nomePropriedade))
+            {
+                Notificacoes.Add(new Notifica
+                {
+                    Mensagem = "Campo Obrigatório",
+                    NomePropriedade = "nomePropriedade"
+                });
+
+                return false;
+            }
+
+            return true;
 
         }
 

@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\entities\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\entities\\entidades\\usuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\usuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\entities\\entidades\\sistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\sistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\entities\\entidades\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\entities\\notificacoes\\notifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\notificacoes\\notifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\entities\\entidades\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Entities\\Entidades\\Categoria.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\Categoria.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Entities\\Entidades\\Categoria.cs",
+              "RelativeToolTip": "Entities\\Entidades\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T18:28:37.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioSistemaFinanceiro.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "RelativeToolTip": "Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T18:26:55.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SistemaFinanceiro.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Entities\\Entidades\\SistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\SistemaFinanceiro.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Entities\\Entidades\\SistemaFinanceiro.cs",
+              "RelativeToolTip": "Entities\\Entidades\\SistemaFinanceiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T18:25:13.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Entities\\Entidades\\Base.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\Base.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Entities\\Entidades\\Base.cs",
+              "RelativeToolTip": "Entities\\Entidades\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T18:23:59.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Notifica.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Entities\\Notificacoes\\Notifica.cs",
+              "RelativeDocumentMoniker": "Entities\\Notificacoes\\Notifica.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Entities\\Notificacoes\\Notifica.cs",
+              "RelativeToolTip": "Entities\\Notificacoes\\Notifica.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA2wCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T18:15:58.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Entities\\Entidades\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Entities\\Entidades\\ApplicationUser.cs",
+              "RelativeToolTip": "Entities\\Entidades\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T18:07:40.463Z",
+              "EditorCaption": ""
             }
           ]
         }
