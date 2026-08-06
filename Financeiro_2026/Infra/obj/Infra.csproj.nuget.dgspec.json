@@ -33,7 +33,11 @@
           "net10.0": {
             "framework": "net10.0",
             "targetAlias": "net10.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
