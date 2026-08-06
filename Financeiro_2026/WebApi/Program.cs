@@ -52,9 +52,9 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                      ValidateLifetime = true,
                      ValidateIssuerSigningKey = true,
 
-                     ValidIssuer = "Teste.Securiry.Bearer",
-                     ValidAudience = "Teste.Securiry.Bearer",
-                     IssuerSigningKey = JwtSecurityKey.Create("Secret_Key-12345678")
+                     ValidIssuer = builder.Configuration["Jwt:Issuer"],
+                     ValidAudience = builder.Configuration["Jwt:Audience"],
+                     IssuerSigningKey = JwtSecurityKey.Create(builder.Configuration["Jwt:SecretKey"]!)
                  };
 
                  option.Events = new JwtBearerEvents
@@ -79,6 +79,11 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
+    app.UseSwaggerUI(options =>
+    {
+        options.SwaggerEndpoint("/openapi/v1.json", "WebApi v1");
+        options.RoutePrefix = "swagger";
+    });
 }
 
 app.UseHttpsRedirection();

@@ -1139,6 +1139,10 @@
             "Microsoft.OpenApi": {
               "target": "Package",
               "version": "[2.7.5, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[10.2.3, )"
             }
           },
           "imports": [

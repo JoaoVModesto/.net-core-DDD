@@ -14,11 +14,14 @@ namespace WebApi.Controllers
     {
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly SignInManager<ApplicationUser> _signInManager;
+        private readonly IConfiguration _configuration;
         public TokenController(UserManager<ApplicationUser> userManager,
-            SignInManager<ApplicationUser> signInManager)
+            SignInManager<ApplicationUser> signInManager,
+            IConfiguration configuration)
         {
             _userManager = userManager;
             _signInManager = signInManager;
+            _configuration = configuration;
         }
 
 
@@ -36,10 +39,10 @@ namespace WebApi.Controllers
             if (result.Succeeded)
             {
                 var token = new TokenJWTBuilder()
-                 .AddSecurityKey(JwtSecurityKey.Create("Secret_Key-12345678"))
+                 .AddSecurityKey(JwtSecurityKey.Create(_configuration["Jwt:SecretKey"]!))
                  .AddSubject("joao master")
-                 .AddIssuer("Teste.Securiry.Bearer")
-                 .AddAudience("Teste.Securiry.Bearer")
+                 .AddIssuer(_configuration["Jwt:Issuer"]!)
+                 .AddAudience(_configuration["Jwt:Audience"]!)
                  .AddClaim("UsuarioAPINumero", "1")
                  .AddExpiry(5)
                  .Builder();
