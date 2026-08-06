@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\infra\\repositorio\\repositoriousuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|solutionrelative:infra\\repositorio\\repositoriousuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\infra\\repositorio\\repositoriosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|solutionrelative:infra\\repositorio\\repositoriosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\domain\\servicos\\despesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\servicos\\despesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\infra\\repositorio\\repositoriodespesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|solutionrelative:infra\\repositorio\\repositoriodespesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\domain\\servicos\\categoriaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\servicos\\categoriaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\infra\\repositorio\\repositoriocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|solutionrelative:infra\\repositorio\\repositoriocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\domain\\servicos\\sistemafinanceiroservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\servicos\\sistemafinanceiroservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\infra\\repositorio\\generics\\repositorygenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|solutionrelative:infra\\repositorio\\generics\\repositorygenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\domain\\servicos\\usuariosistemafinanceiroservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\servicos\\usuariosistemafinanceiroservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,66 +43,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RepositorioUsuarioSistemaFinanceiro.cs",
-              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Infra\\Repositorio\\RepositorioUsuarioSistemaFinanceiro.cs",
-              "RelativeDocumentMoniker": "Infra\\Repositorio\\RepositorioUsuarioSistemaFinanceiro.cs",
-              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Infra\\Repositorio\\RepositorioUsuarioSistemaFinanceiro.cs",
-              "RelativeToolTip": "Infra\\Repositorio\\RepositorioUsuarioSistemaFinanceiro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACUAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T03:08:30.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RepositorioSistemaFinanceiro.cs",
-              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Infra\\Repositorio\\RepositorioSistemaFinanceiro.cs",
-              "RelativeDocumentMoniker": "Infra\\Repositorio\\RepositorioSistemaFinanceiro.cs",
-              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Infra\\Repositorio\\RepositorioSistemaFinanceiro.cs",
-              "RelativeToolTip": "Infra\\Repositorio\\RepositorioSistemaFinanceiro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T03:07:45.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RepositorioDespesa.cs",
-              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Infra\\Repositorio\\RepositorioDespesa.cs",
-              "RelativeDocumentMoniker": "Infra\\Repositorio\\RepositorioDespesa.cs",
-              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Infra\\Repositorio\\RepositorioDespesa.cs",
-              "RelativeToolTip": "Infra\\Repositorio\\RepositorioDespesa.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T03:06:33.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RepositorioCategoria.cs",
-              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Infra\\Repositorio\\RepositorioCategoria.cs",
-              "RelativeDocumentMoniker": "Infra\\Repositorio\\RepositorioCategoria.cs",
-              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Infra\\Repositorio\\RepositorioCategoria.cs",
-              "RelativeToolTip": "Infra\\Repositorio\\RepositorioCategoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T02:58:36.684Z",
+              "WhenOpened": "2026-08-06T03:36:24.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "RepositoryGenerics.cs",
-              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Infra\\Repositorio\\Generics\\RepositoryGenerics.cs",
-              "RelativeDocumentMoniker": "Infra\\Repositorio\\Generics\\RepositoryGenerics.cs",
-              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Infra\\Repositorio\\Generics\\RepositoryGenerics.cs",
-              "RelativeToolTip": "Infra\\Repositorio\\Generics\\RepositoryGenerics.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Title": "UsuarioSistemaFinanceiroServico.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Domain\\Servicos\\UsuarioSistemaFinanceiroServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Servicos\\UsuarioSistemaFinanceiroServico.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Domain\\Servicos\\UsuarioSistemaFinanceiroServico.cs",
+              "RelativeToolTip": "Domain\\Servicos\\UsuarioSistemaFinanceiroServico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T02:41:30.057Z",
+              "WhenOpened": "2026-08-06T03:29:57.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SistemaFinanceiroServico.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Domain\\Servicos\\SistemaFinanceiroServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Servicos\\SistemaFinanceiroServico.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Domain\\Servicos\\SistemaFinanceiroServico.cs",
+              "RelativeToolTip": "Domain\\Servicos\\SistemaFinanceiroServico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T03:29:48.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DespesaServico.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Domain\\Servicos\\DespesaServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Servicos\\DespesaServico.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Domain\\Servicos\\DespesaServico.cs",
+              "RelativeToolTip": "Domain\\Servicos\\DespesaServico.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T03:29:34.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriaServico.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Domain\\Servicos\\CategoriaServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Servicos\\CategoriaServico.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Domain\\Servicos\\CategoriaServico.cs",
+              "RelativeToolTip": "Domain\\Servicos\\CategoriaServico.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T03:29:20.805Z",
               "EditorCaption": ""
             }
           ]
