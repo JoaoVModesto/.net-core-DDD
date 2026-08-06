@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\infra\\migrations\\20260806045215_inicial_canal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|solutionrelative:infra\\migrations\\20260806045215_inicial_canal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\webapi\\model\\inputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\model\\inputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\infra\\configuracao\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|solutionrelative:infra\\configuracao\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\webapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\joaom\\source\\repos\\.net-core-ddd\\financeiro_2026\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,19 +71,106 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\WebApi\\Program.cs",
-              "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Title": "20260806045215_Inicial_canal.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Infra\\Migrations\\20260806045215_Inicial_canal.cs",
+              "RelativeDocumentMoniker": "Infra\\Migrations\\20260806045215_Inicial_canal.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Infra\\Migrations\\20260806045215_Inicial_canal.cs",
+              "RelativeToolTip": "Infra\\Migrations\\20260806045215_Inicial_canal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T03:36:24.95Z",
+              "WhenOpened": "2026-08-06T04:52:15.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-06T04:46:41.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContextBase.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Infra\\Configuracao\\ContextBase.cs",
+              "RelativeDocumentMoniker": "Infra\\Configuracao\\ContextBase.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Infra\\Configuracao\\ContextBase.cs",
+              "RelativeToolTip": "Infra\\Configuracao\\ContextBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T04:30:23.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-06T04:19:56.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\WebApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\WebApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T03:56:59.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputModel.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\WebApi\\Model\\InputModel.cs",
+              "RelativeDocumentMoniker": "WebApi\\Model\\InputModel.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\WebApi\\Model\\InputModel.cs",
+              "RelativeToolTip": "WebApi\\Model\\InputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T03:51:51.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\WebApi\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\WebApi\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T03:48:43.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAQwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T03:36:24.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "UsuarioSistemaFinanceiroServico.cs",
               "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Domain\\Servicos\\UsuarioSistemaFinanceiroServico.cs",
               "RelativeDocumentMoniker": "Domain\\Servicos\\UsuarioSistemaFinanceiroServico.cs",
@@ -63,12 +178,11 @@
               "RelativeToolTip": "Domain\\Servicos\\UsuarioSistemaFinanceiroServico.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T03:29:57.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-06T03:29:57.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "SistemaFinanceiroServico.cs",
               "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Domain\\Servicos\\SistemaFinanceiroServico.cs",
               "RelativeDocumentMoniker": "Domain\\Servicos\\SistemaFinanceiroServico.cs",
@@ -76,12 +190,11 @@
               "RelativeToolTip": "Domain\\Servicos\\SistemaFinanceiroServico.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T03:29:48.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-06T03:29:48.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "DespesaServico.cs",
               "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Domain\\Servicos\\DespesaServico.cs",
               "RelativeDocumentMoniker": "Domain\\Servicos\\DespesaServico.cs",
@@ -89,21 +202,19 @@
               "RelativeToolTip": "Domain\\Servicos\\DespesaServico.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAgwEkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T03:29:34.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-06T03:29:34.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "CategoriaServico.cs",
               "DocumentMoniker": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Domain\\Servicos\\CategoriaServico.cs",
               "RelativeDocumentMoniker": "Domain\\Servicos\\CategoriaServico.cs",
               "ToolTip": "C:\\Users\\joaom\\source\\repos\\.net-core-DDD\\Financeiro_2026\\Domain\\Servicos\\CategoriaServico.cs",
               "RelativeToolTip": "Domain\\Servicos\\CategoriaServico.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T03:29:20.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-06T03:29:20.805Z"
             }
           ]
         }
